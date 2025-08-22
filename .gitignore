@@ -4,3 +4,7 @@
 *.log
 supabase/.temp
 supabase/storage
+.vscode/
+lovable/
+vapi/
+supabase/config.toml
